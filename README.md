@@ -1,10 +1,11 @@
-# ecocampus-fullstack
+# EcoCampus
 YMH3007 Final Projesi - EcoCampus Sürdürülebilir Kampüs Pazaryeri
 # 🌿 EcoCampus - Sürdürülebilir Kampüs Pazaryeri
 
 **YMH3007 Fullstack Web ve Mobil Uygulama Geliştirme - Final Projesi**
 
 Öğrenci: Onur Çapan
+
 Ders Hocası: Dr. Öğr. Üyesi Muhammed Ali KOŞAN
 
 ---
