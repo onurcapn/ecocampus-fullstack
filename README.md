@@ -4,8 +4,7 @@ YMH3007 Final Projesi - EcoCampus Sürdürülebilir Kampüs Pazaryeri
 
 **YMH3007 Fullstack Web ve Mobil Uygulama Geliştirme - Final Projesi**
 
-Öğrenci: Onur Çapan  
-Öğrenci No: 232010080014  
+Öğrenci: Onur Çapan
 Ders Hocası: Dr. Öğr. Üyesi Muhammed Ali KOŞAN
 
 ---
@@ -147,13 +146,6 @@ const API_URL = "http://192.168.1.XXX:3333/api";
 ✅ Yetkilendirme (Sadece kendi ilanını düzenleyebilme)  
 ✅ Web ve Mobil senkronizasyonu (Aynı veritabanı)  
 ✅ Misafir modu (Giriş yapmadan ürünleri görüntüleme)
-
----
-
-## 🎨 Ekran Görüntüleri
-
-*(![Uploading Ekran Resmi 2026-01-14 22.12.26.png…]()
-)*
 
 ---
 
